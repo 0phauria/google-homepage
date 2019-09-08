@@ -2,4 +2,4 @@ This is a learning experience taught over at The Odin Project. <br> (http://www.
 May this lesson go well.<br>
 El. Psy. Congroo.<br>
 夢を書いて。<br>
-私の名前はオフィリア。
+今と永遠に、私の名前はオフィリア。
